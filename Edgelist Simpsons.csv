@@ -1,0 +1,16 @@
+from,to,weight,relationship
+h,m,3,1
+h,b,3,1
+h,l,3,1
+h,Ma,3,1
+h,F,1,7
+h,Mo,1,6
+h,Bu,1,2
+m,h,3,1
+m,l,3,1
+m,Ma,3,1
+b,h,3,1
+b,m,3,1
+b,l,3,1
+b,Ma,3,1
+b,Mo,1,3
